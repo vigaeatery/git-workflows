@@ -13,4 +13,3 @@ def nump_test_answer():
     y = np.array([3,4])
     assert inc(y[0]) == y[1]
     
-print("Testing complete")
